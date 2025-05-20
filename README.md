@@ -21,12 +21,13 @@ Follow these steps to get the app on your device:
 3. Locate the downloaded APK and tap to install.
 4. Open the app and enjoy organizing your academic journey!
 
-| APK Version              | Supported Devices                             | Recommended For          |
-|-------------------------|----------------------------------------------|-------------------------|
-| `app-release.apk`        | Universal (may be larger, supports most devices) | General use              |
-| `app-armeabi-v7a-release.apk` | Older and 32-bit ARM devices                  | Most older phones        |
-| `app-arm64-v8a-release.apk`   | Newer 64-bit ARM devices                       | Modern Android phones    |
-| `app-x86_64-release.apk`      | Emulators or Intel-based devices               | Testing or specific hardware |
+| APK Version                   | Supported Devices                             | Recommended For           | Download Link           |
+|------------------------------|----------------------------------------------|--------------------------|-------------------------|
+| `app-release.apk`             | Universal (may be larger, supports most devices) | General use              | [Download here](https://github.com/yasithbuddhima/GradMate/releases/download/v1.0.0/app-release.apk)      |
+| `app-armeabi-v7a-release.apk`| Older and 32-bit ARM devices                  | Most older phones        | [Download here](https://github.com/yasithbuddhima/GradMate/releases/download/v1.0.0/app-armeabi-v7a-release.apk)      |
+| `app-arm64-v8a-release.apk`   | Newer 64-bit ARM devices                       | Modern Android phones    | [Download here](https://github.com/yasithbuddhima/GradMate/releases/download/v1.0.0/app-arm64-v8a-release.apk)      |
+| `app-x86_64-release.apk`      | Emulators or Intel-based devices               | Testing or specific hardware | [Download here](https://github.com/yasithbuddhima/GradMate/releases/download/v1.0.0/app-x86_64-release.apk)  |
+
 
 *If unsure which APK to install, `app-release.apk` is a safe all-around choice, but may be larger in size.*
 
