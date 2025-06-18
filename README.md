@@ -22,10 +22,10 @@ Follow these steps to get the app on your device:
 
 | APK Version                   | Supported Devices                                | Recommended For              | Download Link                                                                                                        |
 | ----------------------------- | ------------------------------------------------ | ---------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| `app-release.apk`             | Universal (may be larger, supports most devices) | General use                  | [Download here](https://github.com/yasithbuddhima/GradMate/releases/download/v1.0.1/GradMate-universal-v1.0.1.apk)   |
-| `app-armeabi-v7a-release.apk` | Older and 32-bit ARM devices                     | Most older phones            | [Download here](https://github.com/yasithbuddhima/GradMate/releases/download/v1.0.1/GradMate-armeabi-v7a-v1.0.1.apk) |
-| `app-arm64-v8a-release.apk`   | Newer 64-bit ARM devices                         | Modern Android phones        | [Download here](https://github.com/yasithbuddhima/GradMate/releases/download/v1.0.1/GradMate-arm64-v8a-v1.0.1.apk)   |
-| `app-x86_64-release.apk`      | Emulators or Intel-based devices                 | Testing or specific hardware | [Download here](https://github.com/yasithbuddhima/GradMate/releases/download/v1.0.1/GradMate-x86_64-v1.0.1.apk)      |
+| `app-release.apk`             | Universal (may be larger, supports most devices) | General use                  | [Download here](https://github.com/yasithbuddhima/GradMate/releases/download/v1.0.2/GradMate-universal-v1.0.2.apk)   |
+| `app-armeabi-v7a-release.apk` | Older and 32-bit ARM devices                     | Most older phones            | [Download here](https://github.com/yasithbuddhima/GradMate/releases/download/v1.0.2/GradMate-armeabi-v7a-v1.0.2.apk) |
+| `app-arm64-v8a-release.apk`   | Newer 64-bit ARM devices                         | Modern Android phones        | [Download here](https://github.com/yasithbuddhima/GradMate/releases/download/v1.0.2/GradMate-arm64-v8a-v1.0.2.apk)   |
+| `app-x86_64-release.apk`      | Emulators or Intel-based devices                 | Testing or specific hardware | [Download here](https://github.com/yasithbuddhima/GradMate/releases/download/v1.0.2/GradMate-x86_64-v1.0.2.apk)      |
 
 _If unsure which APK to install, `app-release.apk` is a safe all-around choice, but may be larger in size._
 
@@ -128,9 +128,9 @@ Feast your eyes on what awaits you in GradMate:
 
 ### 📚 Courses & Details
 
-| Course List                         | Course Details                                   | Credits                             |
-| ----------------------------------- | ------------------------------------------------ | ----------------------------------- |
-| ![Courses](screenshots/courses.png) | ![CourseDetails](screenshots/course_details.png) | ![Credits](screenshots/credits.png) |
+| View Course                             | Course List                         | Course Details                                   | Credits                             |
+| --------------------------------------- | ----------------------------------- | ------------------------------------------------ | ----------------------------------- |
+| ![Courses](screenshots/view_course.png) | ![Courses](screenshots/courses.png) | ![CourseDetails](screenshots/course_details.png) | ![Credits](screenshots/credits.png) |
 
 ### ℹ️ About & Settings
 
